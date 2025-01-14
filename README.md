@@ -1,4 +1,5 @@
 # Hola 👋 Bienvenido a ReseñaPlus.
+# Proyecto Para AluraGeek Challenge.🚡
 
 ## ✨ Guía de interacción ✨
 El proyecto se basa en una tienda de reseñas de productos, con varias funcionalidades descritas a continuación: 
